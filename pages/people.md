@@ -1,4 +1,5 @@
 ---
+tag: Aerindor
 layout: page
 title: People
 permalink: /people/
