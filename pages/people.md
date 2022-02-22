@@ -6,4 +6,4 @@ isNavItem: true
 ---
 
 People places things
-[test](/test2.md)
+[test](https://lachlandog.github.io/blog/pages/test2.md)
