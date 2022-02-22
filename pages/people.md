@@ -6,3 +6,4 @@ isNavItem: true
 ---
 
 People places things
+[test](/test2.md)
