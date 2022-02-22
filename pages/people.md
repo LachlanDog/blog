@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: People
+permalink: /People/
 ---
 
 People places things
