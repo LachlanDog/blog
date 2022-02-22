@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: People
-permalink: /People/
+permalink: /people/
 ---
 
 People places things
